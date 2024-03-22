@@ -13,4 +13,4 @@ Run `npm install` (or `npm i` for the short version) to install the dev dependen
 
 ## Tests
 
-run `npm run cy:open` to open Cypress in interactive mode.
+run `npm run test` to open Cypress in interactive mode.
